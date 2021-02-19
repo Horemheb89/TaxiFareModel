@@ -1,10 +1,16 @@
 MANIFEST.in
+Makefile
+ml_flow_test.py
+model.joblib
+predict.py
 requirements.txt
 setup.py
+TaxiFareModel/Test API.ipynb
 TaxiFareModel/__init__.py
 TaxiFareModel/data.py
 TaxiFareModel/encoders.py
 TaxiFareModel/gcp.py
+TaxiFareModel/model.joblib
 TaxiFareModel/params.py
 TaxiFareModel/trainer.py
 TaxiFareModel/utils.py
@@ -13,5 +19,14 @@ TaxiFareModel.egg-info/SOURCES.txt
 TaxiFareModel.egg-info/dependency_links.txt
 TaxiFareModel.egg-info/requires.txt
 TaxiFareModel.egg-info/top_level.txt
+TaxiFareModel/.ipynb_checkpoints/Test API-checkpoint.ipynb
+TaxiFareModel/__pycache__/__init__.cpython-38.pyc
+TaxiFareModel/__pycache__/data.cpython-38.pyc
+TaxiFareModel/__pycache__/encoders.cpython-38.pyc
+TaxiFareModel/__pycache__/trainer.cpython-38.pyc
+TaxiFareModel/__pycache__/utils.cpython-38.pyc
 api/__init__.py
 api/fast.py
+api/__pycache__/__init__.cpython-38.pyc
+api/__pycache__/fast.cpython-38.pyc
+notebooks/API usage.ipynb
